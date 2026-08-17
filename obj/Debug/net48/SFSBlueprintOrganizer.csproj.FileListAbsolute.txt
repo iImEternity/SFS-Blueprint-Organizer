@@ -1,0 +1,7 @@
+C:\Users\clahu\Desktop\BlueprintOrganizer\bin\Debug\net48\SFSBlueprintOrganizer.dll
+C:\Users\clahu\Desktop\BlueprintOrganizer\bin\Debug\net48\SFSBlueprintOrganizer.pdb
+C:\Users\clahu\Desktop\BlueprintOrganizer\obj\Debug\net48\SFSBlueprintOrganizer.csproj.AssemblyReference.cache
+C:\Users\clahu\Desktop\BlueprintOrganizer\obj\Debug\net48\SFSBlueprintOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clahu\Desktop\BlueprintOrganizer\obj\Debug\net48\SFSBlueprintOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\clahu\Desktop\BlueprintOrganizer\obj\Debug\net48\SFSBlueprintOrganizer.dll
+C:\Users\clahu\Desktop\BlueprintOrganizer\obj\Debug\net48\SFSBlueprintOrganizer.pdb
